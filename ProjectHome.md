@@ -1,0 +1,1 @@
+SOQL query tool that runs in a Visualforce tab in any SFDC org.
